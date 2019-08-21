@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 title: [Param Bole]
 logo: "/images/10394640_10203009333608301_8202011889599894030_n.jpg"
 description: > # your text below (remove <br> elements if you don't need line breaks)
@@ -8,3 +7,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://github.com/parambole">View My GitHub Profile</a>
   <br><br>
+theme: jekyll-theme-minimal
