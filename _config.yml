@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
 title: [Param Bole]
-description: [Accidental Engineer]
 logo: "/images/10394640_10203009333608301_8202011889599894030_n.jpg"
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  [ Currently Pursuing my MS in Computer Science at USC ]  
+  <br><br>
+  <a href="https://www.linkedin.com/in/parambole/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://github.com/parambole">View My GitHub Profile</a>
+  <br><br>
