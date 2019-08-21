@@ -1,37 +1,28 @@
-## Welcome to my Home Page
+## Hello World!
 
-You can use the [editor on GitHub](https://github.com/parambole/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Work Experience
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bluejeans Networks, India
+ - Senior Software Development Engineer Oct 2017 - May 2019
+ - Software Development Engineer Jul 2015 – Oct 2017
+ - Software Development Intern Jan 2015 - Jun 2015
+ 
+Inmobi, India
+ - Software Development Intern Oct 2014 - Nov 2014
+ 
+Nokia, India
+ - Software Development Intern Jan 2013 - Aug 2013
+ 
+## Projects
+### TrafikSense, Bangalore                                                                                                              
+Developed prototype of intelligent adaptive traffic signal using reinforcement learning. Reduced the average wait time by 8% and vehicular emissions by 12% equivalent to 6000 tonnes of carbon monoxide
 
-### Markdown
+## Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Master of Science, Computer Science,** University of Southern California, Los Angeles, USA, June 2019 - Present                                                                                                                                      
+- **Bachelor of Engineering in Computer Science,** Ramaiah Institute of Technology, Bangalore, India , Aug 2011 - Aug 2015                                                                                              
 
-```markdown
-Syntax highlighted code block
-
-# Header 2
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parambole/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## TECHNICAL SKILLS
+- **Languages:** C, C++, Java, Python, JavaScript. 
+- **Frameworks:** REST APIs, Spring Boot, Apache Kafka, Apache Storm, Amazon Web Services (AWS), NodeJS, ReactJS
+- **Databases:** MemSQL, MySQL, Redis, Mongo.
