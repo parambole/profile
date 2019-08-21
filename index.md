@@ -1,8 +1,8 @@
-## Hello World!
+## HELLO WORLD!
 
-My Name is Param Bole and I am currently pursuing my Masters in computer science at USC. 
+My Name is Param Bole and I am currently pursuing my Masters in Computer Science at USC, LA. 
 
-## TECHNICAL SKILLS
+## Techical Skills
 - **Languages:** C, C++, Java, Python, JavaScript. 
 - **Frameworks:** REST APIs, Spring Boot, Apache Kafka, Apache Storm, Amazon Web Services (AWS), NodeJS, ReactJS
 - **Databases:** MemSQL, MySQL, Redis, Mongo.
