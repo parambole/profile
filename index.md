@@ -21,7 +21,11 @@ My Name is Param Bole and I am currently pursuing my Masters in Computer Science
  - Software Development Intern Jan 2013 - Aug 2013
  
 ## Projects
-### TrafikSense, Bangalore                                                                                                              
+
+### PIIObfuscation
+Developed a framework for obfuscation of Personally identifiable information (PII) in an API response. The APIs to be obfuscated are identified using annotations and response keys to be obfuscated are extracted from a Mongo collection
+
+### TrafikSense                                                                                                              
 Developed prototype of intelligent adaptive traffic signal using reinforcement learning. Reduced the average wait time by 8% and vehicular emissions by 12% equivalent to 6000 tonnes of carbon monoxide
 
 ## Education
