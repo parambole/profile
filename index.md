@@ -9,7 +9,7 @@ My Name is Param Bole and I am currently pursuing my Masters in Computer Science
 
 ## Work Experience
 
-**Electronic Arts** India
+**Electronic Arts,** USA
 - Software Development Intern May 2020 - Aug 2020
 
 **Bluejeans Networks,** India
