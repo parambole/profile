@@ -3,11 +3,14 @@
 My Name is Param Bole and I am currently pursuing my Masters in Computer Science at USC, LA. 
 
 ## Techical Skills
-- **Languages:** C, C++, Java, Python, JavaScript. 
-- **Frameworks:** REST APIs, Spring Boot, Apache Kafka, Apache Storm, Amazon Web Services (AWS), NodeJS, ReactJS
-- **Databases:** MemSQL, MySQL, Redis, Mongo.
+- **Languages:** Java, Python, SQL, JavaScript, HTML, CSS, PHP, Swift, C++, C 
+- **Frameworks & Tools:** RESTful APIs, Storm, Kafka, Presto, AWS, NodeJS, Angular, RabbitMQ, Spring Boot, Git, Dockers, Gradle
+- **Databases:** MemSQL, MySQL, Redis, Mongo
 
 ## Work Experience
+
+**Electronic Arts** India
+- Software Development Intern May 2020 - Aug 2020
 
 **Bluejeans Networks,** India
  - Senior Software Development Engineer Oct 2017 - May 2019
