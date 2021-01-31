@@ -10,17 +10,17 @@ My Name is Param Bole and I am currently pursuing my Masters in Computer Science
 
 ## Work Experience
 
-**Electronic Arts,**
+**Electronic Arts**
 - Software Development Engineer May 2020 - Aug 2020
 
-**Bluejeans Networks,**
+**Bluejeans Networks**
  - Senior Software Development Engineer Oct 2017 - May 2019
  - Software Development Engineer Jan 2015 – Oct 2017
  
-**Inmobi,**
+**Inmobi**
  - Software Development Engineer Oct 2014 - Nov 2014
  
-**Nokia,**
+**Nokia**
  - Software Development Engineer Jan 2013 - Aug 2013
  
 ## Projects
