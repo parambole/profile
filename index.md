@@ -18,7 +18,7 @@ My Name is Param Bole and I am currently pursuing my Masters in Computer Science
  - Software Engineer Jan 2015 – Oct 2017
  
 **Inmobi**
- - Software Engineer Oct 2014 - Nov 2014
+ - Software Engineer Oct 2014 - Dec 2014
  
 **Nokia**
  - Software Engineer Jan 2013 - Aug 2013
